@@ -1,0 +1,11 @@
+.cart{
+    text-align: center;
+}
+.cart p{
+    font-weight: bold;
+}
+.cart span{
+    font-size: 20px;
+    font-weight: bold;
+    color: orange;
+}
